@@ -10,4 +10,4 @@ def comb(L):
 					print(L[i], L[j], L[k])
 					
 
-comb([1,4,5,6])
+comb([1,2,3])
